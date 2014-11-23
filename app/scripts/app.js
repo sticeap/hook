@@ -1,6 +1,5 @@
 'use strict';
 
-
 /**
  * @ngdoc overview
  * @name hookApp
